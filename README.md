@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @MrGoat08
-- 👀 I’m interested in FiveM Projects
-- 🌱 I’m currently learning Web Development (React JS, Tailwind, Next JS & Typescript)
+- 🌱 I’m currently learning C++, C and Assembly_x86
 - 📫 You can reach me on discord: mrgoat1629
