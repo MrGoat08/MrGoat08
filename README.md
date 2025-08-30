@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MrGoat08
-- 🌱 I’m currently learning C++, C and Assembly_x86
+- 🌱 I’m currently learning C++, C and Assembly x86_64
 - 📫 You can reach me on discord: mrgoat1629
